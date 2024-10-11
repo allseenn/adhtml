@@ -12,3 +12,4 @@
 ## Решение
 
 [SCSS](style.scss)
+[VARS](_vars.scss)
