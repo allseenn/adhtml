@@ -2,7 +2,7 @@
 
 ## Препроцессоры
 
-1. В предыдущем курсе вам удалось реализовать [главную страницу интернет-магазина](https://www.figma.com/file/mnLY69cYE5cqWM5w6n5hXx/Seo-%26-Digital-Marketing-Landing-Page?node-id=190%3A1194&t=PG5XehZ5WIPwjyRd-0). Вам необходимо открыть данный проект. 
+1. В предыдущем курсе вам удалось реализовать [главную страницу интернет-магазина](https://www.figma.com/file/mnLY69cYE5cqWM5w6n5hXx/Seo-%26-Digital-Marketing-Landing-Page?node-id=190%3A1194&t=PG5XehZ5WIPwjyRd-0). Вам необходимо открыть данный проект.
 2. Устанавливаем 3 расширения (Если вы этого не сделали на семинаре) a. Live Sass Compiler b. Sass c. Live Server
 3. Перевести все стили из css в SCSS
 4. Приступаем к созданию [страницы каталога](https://www.figma.com/file/TQaPa1gzsX6Qb4Gqj4fve7/Shop-(Copy)?node-id=68%3A2&t=IEptoEJXyB6cOyek-0)
@@ -12,4 +12,5 @@
 ## Решение
 
 [SCSS](style.scss)
+
 [VARS](_vars.scss)
