@@ -440,4 +440,110 @@ summary {
   display: flex;
   flex-direction: column;
   align-items: center;
-}/*# sourceMappingURL=style.css.map */
+}
+
+.subscribe {
+  background-image: url(img/subscribe.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 448px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  &__left {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 360px;
+    max-height: 225px;
+  }
+  &__slogan {
+    margin-top: 30px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    color: #222222;
+    text-align: center;
+  }
+  &__right {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 557px;
+    max-height: 137px;
+  }
+  &__heading {
+  color: #222224;
+  text-align: center;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  }
+  &__text {
+    color: #222224;
+    text-align: center;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  &__form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-shrink: 0;
+    margin-top: 34px;
+    width: 356px;
+    height: 49px;
+  }
+  &__input {
+    width: 323px;
+    height: 49px;
+    border: none;
+    border: 1px solid #E1E1E1;
+    background-color: #E1E1E1;
+    padding-left: 25px;
+    border-radius: 25px 0 0 25px;
+  }
+  &__btn {
+    width: 100px;
+    height: 49px;
+    background: #F16D7F;
+    border-radius: 0 25px 25px 0;
+    border: none;
+    color: #fff;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+}
+
+.footer {
+  background-color: #222222;
+  height: 79px;
+  display: flex;
+  justify-content:space-around;
+  align-items: center;
+  padding: 0 20px;
+  &__text {
+    color: #FBFBFB;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+  }
+  &__right {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 70px;
+    height: 32px;
+  }
+}
+
+
