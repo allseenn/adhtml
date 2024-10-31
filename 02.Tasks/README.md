@@ -13,9 +13,9 @@
 
 ### HTML
 
-[HTML](catalog.html)
+[catalog](catalog.html)
 
-[HTML](product.html)
+[product](product.html)
 
 ### SCSS
 
