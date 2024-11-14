@@ -83,7 +83,7 @@ input[type=radio] {
     font-weight: 400;
     line-height: normal;
   }
-  &__text {
+  &__label {
     color: #4A4A4A;
     font-size: 11px;
     font-style: normal;
@@ -121,7 +121,8 @@ input[type=radio] {
     }
     &-radio {
       display: flex;
-      justify-content: space-evenly;
+      justify-content: space-around;
+      gap: 10px;
       width: 137px;
       color: #000;
       font-family: Lato;
