@@ -20,4 +20,4 @@
 
 [SCSS](style.scss)
 
-[vars.css](_vars.css)
+[vars.css](_vars.scss)
