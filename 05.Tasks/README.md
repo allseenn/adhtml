@@ -19,3 +19,5 @@
 [cart.html](cart.html)
 
 [SCSS](style.scss)
+
+[vars.css](_vars.css)
