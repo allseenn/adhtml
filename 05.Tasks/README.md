@@ -8,6 +8,14 @@
 
 ## Решение
 
+[index.html](index.html)
+
+[catalog.html](catalog.html)
+
 [registration.html](registration.html)
+
+[product.html](product.html)
+
+[cart.html](cart.html)
 
 [SCSS](style.scss)
